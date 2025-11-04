@@ -1,0 +1,61 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    Text-align: left;
+    color: aqua;
+    background-image: url(513927-arctic.jpg)
+
+}
+
+end{
+  color:black;
+}
+.Golive{
+  margin-bottom: 20px;
+  padding: 20px;
+  margin: 100px;
+  background-color: blue;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+#top-text{
+  position: fixed;
+  top: 50px;
+  width: 8%;
+  text-align:left;
+  background-color: green;
+  
+}
+
+nav{
+    text-align: left;
+}
+
+.task {
+  margin-bottom: 20px;
+  padding: 20px;
+  margin: 100px;
+  background-color: blue;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+.login-container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  padding: 10px;
+}
+
+label {
+  font-weight: bold;
+}
